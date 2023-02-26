@@ -1,0 +1,5 @@
+# env file
+.env
+# node_modules folder
+node_modules
+test.rest
